@@ -1,0 +1,74 @@
+body{
+background-image: url("assets/homepic1.png");
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+p.shawn{
+font-size: 100px;
+font-family: Copperplate, fantasy;
+color: white;
+font-weight: 900;
+text-shadow: 0 0 3px;
+}
+p{
+font-size: 45px;
+font-family: Copperplate, fantasy;
+font-weight: 900;
+color: #ff3300;
+text-shadow: 1px 0 black;
+}
+p.Intro{
+font-size: 25px;
+font-family: Times New Roman, serif;
+color: #ff3300;
+font-weight: 1500;
+text-shadow: 0 0 3px; 
+}
+p.Intro1{
+font-size: 25px;
+margin-left:0px; 
+margin-right:600px;
+color: #ff3300;
+font-weight: 1500;
+text-shadow: 0 0 3px;
+}
+h1{
+font-size: 50px;
+font-family: Times New Roman, serif;
+color: white;
+font-weight: 900;
+text-shadow: 0 0 3px;
+}
+a{
+font-size: 45px;
+font-family: Copperplate, fantasy;
+font-weight: 1500;
+color: #ff3300;
+text-shadow: 1px 0 black;
+}
+
+ul{
+font-size: 42px;
+margin-left:0px; 
+margin-right:600px;
+color: #ff3300;
+font-weight: 1500;
+text-shadow: 0 0 3px;
+}
+
+p.list{
+font-family: Times New Roman, serif;
+font-size: 50px;
+margin-left:0px; 
+margin-right:600px;
+color: #ff3300;
+font-weight: 1500;
+text-shadow: 0 0 3px;
+}
+
+h3{
+font-size: 20px
+text-shadow: 1px 0 black;
+color: #ff3300;
+}
