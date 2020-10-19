@@ -121,8 +121,8 @@ if(ball.crashWith(goal)){
         minGap = 50;
         maxGap = 200;
         gap = Math.floor(Math.random()*(maxGap-minGap+1)+minGap);
-        obstacles.push(new component(10, height, "black", x, 0));
-        obstacles.push(new component(10, x - height - gap, "black", x, height + gap));
+        obstacles.push(new component(10, height, "purple", x, 0));
+        obstacles.push(new component(10, x - height - gap, "purple", x, height + gap));
     }
     for (i = 0; i < obstacles.length; i += 1) {
         obstacles[i].x += -1;
